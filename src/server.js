@@ -16,5 +16,5 @@ server.use(express.urlencoded({extended: true}))
 
 server.use(route)
 
-server.listen(3333, ()=>console.log("Rodando"))
+server.listen(80, ()=>console.log("Rodando"))
 
