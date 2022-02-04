@@ -4,4 +4,4 @@ Missão Discover
 
 - Node JS
 - NPM
-- JS
+- EJS
